@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @amanzinggg
-- 👀 I’m interested in Data Science,  Deep learning.
+- 👋 Hi, I’m @
+- 👀 I’m interested Data  Science,  Deep learning.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Drop me a mail on amankumar.juet@gmail.com
+- 📫 How to reach me : Drop me a mail on sakshammishra951@gmail.com
 
 <!---
 amanzinggg/amanzinggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
